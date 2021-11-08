@@ -1,0 +1,7 @@
+drupal8.skytegs_page:
+  path: 'skytegsview'
+  defaults:
+    _controller: '\Drupal\skytegs\Controller\SkyTegsView::content'
+    _title: 'Sky Tegs'
+  requirements:
+    _permission: 'access content'

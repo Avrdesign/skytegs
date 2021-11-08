@@ -1,0 +1,5 @@
+name: Skytegs
+description: Custom module for Cloud tegs widget by Dmitri Avramets
+core: 8.x
+type: module
+package: Skytegs
